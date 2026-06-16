@@ -1,35 +1,36 @@
+<div align="center">
+
+<a href="https://t.me/superuseryu">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+</div>
+
+---
+
+<h2 align="center">activity</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=yurika-sudo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="yurika-sudo GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yurika-sudo&count_private=true&theme=dark&border_radius=10" alt="yurika-sudo streak stats" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yurika-sudo&theme=react-dark&hide_border=true" alt="yurika-sudo activity graph" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yurika-sudo&layout=compact&theme=dark&border_radius=10" alt="yurika-sudo most used languages" />
+</div>
+
+---
+
+<h3 align="center">currently building</h3>
+
 <p align="center">
-  <a href="https://github.com/yurika-sudo">
-    <img src="https://cardivo.vercel.app/api?name=yurika-sudo&description=hobbyist%20%7C%20android%20%7C%20linux%20%7C%20just%20for%20fun&image=https://avatars.githubusercontent.com/yurika-sudo&backgroundColor=%230d1117&pattern=leaf&colorPattern=%230d1117&fontColor=%23ffffff&hideIcons=true" />
-  </a>
+  <a href="https://github.com/yurika-sudo/kernel_sapphire_SM6225"><b>Seiran Kernel</b></a> — custom kernel for the Redmi Note 13 4G (sapphire / SM6225), with an automated CI/CD pipeline covering GKI &amp; CLO sources, multiple KernelSU variants, and SUSFS.
 </p>
 
----
-
 <div align="center">
-  <h3>about my system</h3>
-  <img src="https://skillicons.dev/icons?i=arch,debian,linux,androidstudio,windows" height="55"/>
-  <br/><br/>
-  <h3>languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,bash" height="55"/>
-  <br/><br/>
-  <h3>tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
-</div>
-
----
-
-<h2 align="center">stats</h2>
-
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yurika-sudo&count_private=true&theme=dark&border_radius=10"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=yurika-sudo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10"/>
-</div>
-
----
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/superuseryu)
-
+  <img width="450" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yurika-sudo&repo=kernel_sapphire_SM6225&theme=dark&border_radius=10" alt="kernel_sapphire_SM6225" />
 </div>
